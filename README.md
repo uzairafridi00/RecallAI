@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/github/license/uzairafridi00/RecallAI" />
   <img src="https://img.shields.io/github/issues/uzairafridi00/RecallAI" />
   <img src="https://img.shields.io/github/last-commit/uzairafridi00/RecallAI" />
-  <img src="https://img.shields.io/npm/v/RecallAI" />
 </p>
 
 > Give your LLM **memory that actually remembers.**
