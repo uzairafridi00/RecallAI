@@ -1,12 +1,12 @@
 # 🧠 RecallAI (MCP Vector Memory Server)
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/your-username/recallai?style=social" />
-  <img src="https://img.shields.io/github/forks/your-username/recallai?style=social" />
-  <img src="https://img.shields.io/github/license/your-username/recallai" />
-  <img src="https://img.shields.io/github/issues/your-username/recallai" />
-  <img src="https://img.shields.io/github/last-commit/your-username/recallai" />
-  <img src="https://img.shields.io/npm/v/recallai" />
+  <img src="https://img.shields.io/github/stars/uzairafridi00/RecallAI?style=social" />
+  <img src="https://img.shields.io/github/forks/uzairafridi00/RecallAI?style=social" />
+  <img src="https://img.shields.io/github/license/uzairafridi00/RecallAI" />
+  <img src="https://img.shields.io/github/issues/uzairafridi00/RecallAI" />
+  <img src="https://img.shields.io/github/last-commit/uzairafridi00/RecallAI" />
+  <img src="https://img.shields.io/npm/v/RecallAI" />
 </p>
 
 > Give your LLM **memory that actually remembers.**
@@ -126,8 +126,8 @@ When an LLM wants to remember or recall something, it calls one of the memory to
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-org/mcp-vector-memory.git
-cd mcp-vector-memory
+git clone https://github.com/uzairafridi00/RecallAI.git
+cd RecallAI
 
 # 2. Install dependencies
 npm install
