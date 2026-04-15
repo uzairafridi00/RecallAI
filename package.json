@@ -1,0 +1,36 @@
+{
+  "name": "mcp-vector-memory",
+  "version": "1.0.0",
+  "description": "MCP server for augmenting LLM memory using a ChromaDB vector database",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "mcp-vector-memory": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "chromadb": "^1.9.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.39",
+    "@types/uuid": "^9.0.8",
+    "typescript": "^5.9.3"
+  },
+  "keywords": [
+    "mcp",
+    "memory",
+    "vector-database",
+    "chromadb",
+    "llm",
+    "ai",
+    "rag"
+  ],
+  "license": "MIT"
+}
