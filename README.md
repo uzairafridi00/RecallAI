@@ -1,6 +1,6 @@
 # 🧠 RecallAI (MCP Vector Memory Server)
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/github/stars/uzairafridi00/RecallAI?style=social" />
   <img src="https://img.shields.io/github/forks/uzairafridi00/RecallAI?style=social" />
   <img src="https://img.shields.io/github/license/uzairafridi00/RecallAI" />
